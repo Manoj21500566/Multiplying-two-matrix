@@ -5,10 +5,19 @@
 ## ALGORITHM:
 
 ### Step 1:
+import numpy as np
 ### Step 2:
+give the inputs
 ### Step 3:
+use the for loop and range function
 ### Step 4:
+multiply the two matrices
 ### Step 5:
+stop
+
+
+
+
 
 ## PROGRAM: 
 ~~~ python
@@ -37,4 +46,5 @@ print("Product of two arrays is:", result)
 ![](manoj21.png)
 
 ## RESULT:
+thus program successfully
 
