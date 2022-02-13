@@ -11,6 +11,7 @@
 ### Step 5:
 
 ## PROGRAM: 
+~~~ python
 import numpy as np
 
 l1,l2 =[],[]
@@ -30,6 +31,7 @@ result = value1*value2
 
 
 print("Product of two arrays is:", result)
+~~~
 
 ## OUTPUT:
 ![](manoj21.png)
